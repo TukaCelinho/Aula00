@@ -23,4 +23,4 @@ Classificar itens críticos segundo impacto financeiro e risco operacional.
  1. Extração de Itens
  2. Normalização
  3. Curva ABC
- 4. Normas
+ 4. Normas de Segurança
